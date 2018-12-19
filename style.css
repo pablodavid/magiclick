@@ -151,6 +151,23 @@ img {
   height: auto;
   max-width: 100%; }
 
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+	justify-content: center;
+}
+
+.resp-iframe {
+    position: absolute;
+    top: 5%;
+	left: 8%;
+	right: 10%;
+    width: 80%;
+    height: 80%;
+    border: 0;
+}
+
 .sonar-table {
   display: table;
   z-index: 9;
