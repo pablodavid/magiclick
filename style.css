@@ -560,10 +560,11 @@ img {
       .mainMenu .copywrite-text p {
         font-size: 14px; } }
   .mainMenu .copywrite-text a {
-    font-weight: 100;
-    color: #ffffff; }
+    font-weight: bold;
+    color: green; }
     .mainMenu .copywrite-text a:hover, .mainMenu .copywrite-text a:focus {
-      font-size: 14px; }
+      font-size: 14px;
+      color: limegreen; }
   .mainMenu .nav-link {
     color: #ffffff;
     font-size: 18px;
